@@ -24,6 +24,7 @@ $data = $stmt->fetchALL(mode: PDO::FETCH_ASSOC);
         border: none;
         font-size: 14px">Tambah barang</button>
     </a>
+    <a></a>
     <table border="1" cellpadding="8" cellspacing="0">
     <tr>
         <td>NO</td>
